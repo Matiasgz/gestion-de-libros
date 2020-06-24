@@ -1,0 +1,6 @@
+C:\Users\matia\source\repos\GestionDeDatos\GestionDeDatos\bin\Debug\GestionDeDatos.exe.config
+C:\Users\matia\source\repos\GestionDeDatos\GestionDeDatos\bin\Debug\GestionDeDatos.exe
+C:\Users\matia\source\repos\GestionDeDatos\GestionDeDatos\bin\Debug\GestionDeDatos.pdb
+C:\Users\matia\source\repos\GestionDeDatos\GestionDeDatos\obj\Debug\GestionDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\GestionDeDatos\GestionDeDatos\obj\Debug\GestionDeDatos.exe
+C:\Users\matia\source\repos\GestionDeDatos\GestionDeDatos\obj\Debug\GestionDeDatos.pdb
